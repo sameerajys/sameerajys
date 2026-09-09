@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sameera
 - 👀 I’m interested in Data Science and machine learning
-- 🌱 I’m currently learning python and R
-- 💞️ I’m looking to solve problems in data science, most related to brewing industry.
+- 🌱 I’m currently learning Python and R
+- 💞️ I’m looking to solve problems in chemical biology and molecular biology
 - 📫 Reach me on sameerajys@gmail.com
 
 <!---
